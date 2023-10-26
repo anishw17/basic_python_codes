@@ -1,6 +1,7 @@
 import time
 
 print('hey!')
+#some comment
 print('here you can spam any text!')
 name = input('please enter your name!:'.upper()).capitalize()
 time.sleep(1)
